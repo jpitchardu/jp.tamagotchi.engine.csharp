@@ -1,0 +1,1 @@
+# jp.tamagotchi.engine.csharp
